@@ -1,0 +1,3 @@
+{
+  "ami:account=980844124623:filters.architecture.0=x86_64:filters.image-type.0=machine:filters.name.0=ubuntu/images/*ubuntu-*-24.04-*:filters.state.0=available:owners.0=amazon:region=af-south-1": "ami-0ffb0511b7f030079"
+}
